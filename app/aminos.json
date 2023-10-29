@@ -1,0 +1,27 @@
+{
+    "aminos": [
+        {
+            "name": "ala",
+            "codons": [
+                "GCT",
+                "GCC",
+                "GCA",
+                "GCC"
+            ],
+            "compressed": "GCN"
+        },
+        {
+            "name": "arg",
+            "codons": [
+                "CGT",
+                "CGC",
+                "CGA",
+                "CGG",
+                "AGA",
+                "AGG"
+            ],
+            "compressed": "CGN"
+        }  
+    ]
+         
+}
